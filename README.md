@@ -487,10 +487,4 @@ For issues or questions:
 3. Verify all data requirements are met
 4. Check the database migrations have been applied
 
-## 📄 License
-
-This project is open source and available for educational purposes.
-
----
-
-**Happy coding!** 🚀
+yun lang babye
